@@ -11,5 +11,5 @@ git remote add origin https://github.com/user_name/myproject.git
 
 git add helloworld.py
 git add.
-git commit -m 'commit message'
+git commit -m 'file added'
 git push origin master
