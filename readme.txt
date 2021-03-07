@@ -2,14 +2,14 @@ sudo apt-get install git
 
 mkdir myproject
 cd myproject
-vim helloworld.py
 
 git init
 git config --global user.name 'user_name'
 git config --global user.email 'user_email'
-git remote add origin https://github.com/user_name/myproject.git
+git remote add origin https://github.com/user_name/project_name.git
 
-git add helloworld.py
+vim file.py
+git add file.py
 git add.
 git commit -m 'file added'
 git push origin master
