@@ -1,0 +1,25 @@
+sudo - install package
+
+pwd - present working directory
+mkdir - make directory
+rmdir - remove directory
+ls - list file and directory
+cd - change directory
+echo - print
+vim - create file
+cp - copy
+mv - move
+rm - remove
+cat/less - show the content of file
+sort - show the content of file in sorted order
+grep - to search for particular string
+clear - clear the screen
+
+chmod - change of mod
+4 = read(r)
+2 = write(w)
+1 = execute(x)
+4+2+1 = r+w+x
+chmod usergroupothers file.sh
+chmod 777 file.sh
+
